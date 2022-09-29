@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="497" height="120" viewBox="0 0 497 120">
+  <g id="incuba-title" transform="translate(-25 -140)">
+    <text id="Incubators" transform="translate(25 240)" fill="#282626" font-size="100" font-family="AttackType-Medium, Attack Type" font-weight="500" letter-spacing="0.01em"><tspan x="0" y="0">Incubators</tspan></text>
+    <circle id="椭圆_5" data-name="椭圆 5" cx="10" cy="10" r="10" transform="translate(421 190)" fill="#282626"/>
+    <circle id="椭圆_11" data-name="椭圆 11" cx="10" cy="10" r="10" transform="translate(421 190)" fill="#fa5142"/>
+  </g>
+</svg>
