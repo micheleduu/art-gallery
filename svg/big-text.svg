@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="264" viewBox="0 0 790 264">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 220px;
+        font-family: AttackType-Regular, Attack Type;
+        letter-spacing: 0.01em;
+      }
+
+      .cls-2 {
+        fill: #fa5142;
+      }
+    </style>
+  </defs>
+  <g id="Group_39" data-name="Group 39" transform="translate(-25 -107)">
+    <text id="SAPAR" class="cls-1" transform="translate(25 327)"><tspan x="0" y="0">SAPAR</tspan></text>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="12.5" cy="12.5" r="12.5" transform="translate(232 249)"/>
+  </g>
+</svg>

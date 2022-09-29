@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="304" height="120" viewBox="0 0 304 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #282626;
+        font-size: 100px;
+        font-family: AttackType-Medium, Attack Type;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+      }
+
+      .cls-2 {
+        fill: #fa5142;
+      }
+    </style>
+  </defs>
+  <g id="Group_38" data-name="Group 38" transform="translate(-25 -140)">
+    <text id="Artists" class="cls-1" transform="translate(25 240)"><tspan x="0" y="0">Artists</tspan></text>
+    <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-2" cx="10" cy="10" r="10" transform="translate(221 177)"/>
+  </g>
+</svg>
