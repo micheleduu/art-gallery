@@ -48,6 +48,7 @@ table {
 @font-face {
   font-family: "Attack Type";
   src: url("../fonts/AttackType/AttackType-Regular.ttf") format("truetype");
+  font-weight: normal;
 }
 
 
