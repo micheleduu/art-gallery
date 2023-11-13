@@ -45,6 +45,18 @@ table {
 }
 
 
+@font-face {
+  font-family: "Attack Type";
+  src:
+    local("AttackType"),
+    url("AttackType-Bold.ttf") format("truetype"),
+    url("AttackType-Heavy.ttf") format("truetype"),
+    url("AttackType-Medium.ttf") format("truetype"),
+    url("AttackType-Regular.ttf") format("truetype");
+}
+
+
+
 /* #cursor {
     position: absolute;
     width: 20px;
