@@ -48,10 +48,10 @@ table {
 @font-face {
   font-family: "Attack Type";
   src:
-    url("/fonts/AttackType/AttackType-Bold.ttf") format("truetype"),
-    url("/fonts/AttackType/AttackType-Heavy.ttf") format("truetype"),
-    url("/fonts/AttackType/AttackType-Medium.ttf") format("truetype"),
-    url("/fonts/AttackType/AttackType-Regular.ttf") format("truetype");
+    url("../fonts/AttackType/AttackType-Bold.ttf") format("truetype"),
+    url("../fonts/AttackType/AttackType-Heavy.ttf") format("truetype"),
+    url("../fonts/AttackType/AttackType-Medium.ttf") format("truetype"),
+    url("../fonts/AttackType/AttackType-Regular.ttf") format("truetype");
 }
 
 
