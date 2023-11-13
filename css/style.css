@@ -65,6 +65,27 @@ table {
   src: url("../fonts/AttackType/AttackType-Heavy.ttf") format("truetype");
   font-weight: 800;
 }
+@font-face {
+  font-family: "Neue Montreal";
+  src: url("../fonts/Neue-montreal/NeueMontreal-Bold.ttf") format("opentype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Neue Montreal";
+  src: url("../fonts/Neue-montreal/NeueMontreal-Medium.ttf") format("opentype");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Neue Montreal";
+  src: url("../fonts/Neue-montreal/NeueMontreal-Regular.ttf") format("opentype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Neue Montreal";
+  src: url("../fonts/Neue-montreal/NeueMontreal-Light.ttf") format("opentype");
+  font-weight: 300;
+}
+
 
 
 
